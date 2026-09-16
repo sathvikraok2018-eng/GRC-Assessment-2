@@ -11,6 +11,19 @@ Business Model Description: DUMMY PVT LTD operates an online retail storefront s
 
 Target Audience / Operating Regions:  Global / United States / EU
 
+📌 Payment Architecture
+Integration Type:  Hosted iFrame / Redirect / Hosted Fields
+
+Payment Gateway Provider(s): Dummypaypal/Dummyrupay
+
+Cardholder Data Handling:
+
+"DUMMY PVT LTD does not store, process, or transmit cardholder data (CHD) or sensitive authentication data (SAD) on any company-owned or managed infrastructure. 
+Payment collection forms are rendered directly via secure iFrames provided by our payment gateway. 
+All raw cardholder data goes directly from the customer’s browser to the payment processor."
+
+
+
 
 
 
