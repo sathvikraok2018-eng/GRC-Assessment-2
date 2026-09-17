@@ -11,3 +11,9 @@
   * cardholder name and expiry dates
   * customer PII and transaction history
   * Sensitive authentication data 
+
+## GAP ANALYSIS SUMMARY (PCI-DSS)
+
+| Requirement ID | Current state (Baseline flow) | Desired state (Target control) | Priority |
+| :--- | :--- | :--- | :--- |
+| PCI 3.4.1 | PAN stored in clear text inside database temp logs during checkout failures | Render all PAN unreadable using strong cryptography (AES-256) | CRITICAL |
