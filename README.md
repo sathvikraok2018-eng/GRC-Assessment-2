@@ -30,7 +30,20 @@
 
 ## 📋 Third-Party Risk Management (TPRM) Vendor Questionnaire
 
-	* Instructions for Vendor:* Complete this security assessment regarding your third-party integration with our Cardholder Data Environment (CDE). All responses must be verified by your Chief Information Security Officer (CISO) or designated security lead prior to contract execution or renewal.
+	
+* Instructions for Vendor:
+* Complete this security assessment regarding your third-party integration with our Cardholder Data Environment (CDE). All responses must be verified by your Chief Information Security Officer (CISO) or designated security lead prior to contract execution or renewal.
+
+### Section A: Data Governance & Encryption
+
+| # | Security Question | Response Format | Vendor Response & Details |
+| :---: | :--- | :---: | :--- |
+| *A.1* | do you store, process, or transmit Primary Account Numbers (PAN) or Sensitive Authentication Data (SAD) on our behalf? | ⁠ [Yes / No] ⁠ | *Response:* <br>If Yes, specify exact data fields: |
+| *A.2* | Is all data in transit encrypted using TLS 1.3, and is all cardholder dta at rest encrypted using AES-256 or equivalent? | ⁠ [Yes / No] ⁠ | *Response:* <br>Provide cryptographic protocols used: |
+| *A.3* | Can you confirm that Sensitive Authentication Data (CVV/CVC codes) is imediately purged after transaction authorization and never stored under any circumstances? | ⁠ [Yes / No] ⁠ | *Response:* |
+
+---
+
 
 
 
