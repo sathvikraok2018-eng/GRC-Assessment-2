@@ -44,6 +44,17 @@
 
 ---
 
+### Section B: Access Control & Network Security
+
+| # | Security Question | Response Format | Vendor Response & Details |
+| :---: | :--- | :---: | :--- |
+| *B.1* | Is Multi-Factor Authentication (MFA) mandatory for all vendor personnel accessing systems that connect to our API or data strams? | ⁠ [Yes / No] ⁠ | *Response:* |
+| *B.2* | Do you enforce the Principle of Least Privilege and Role-Based Access Contol (RBAC) for vendor API tokens and service accounts? | ⁠ [Yes / No] ⁠ | *Response:* |
+| *B.3* | How frequently are service account API keys rotated, and what is your process for imediate revocation during a credential leak? | ⁠ [Text] ⁠ | *Response Details:* |
+
+---
+
+
 
 
 
