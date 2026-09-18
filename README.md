@@ -54,6 +54,16 @@
 
 ---
 
+### Section C: Vulnerability Management & 
+
+| # | Security Question | Response Format | Vendor Response & Details |
+| :---: | :--- | :---: | :--- |
+| *C.1* | Do you conduct annual external penetration testing and quarterly vulnerability scans on all infrastructure supporting our integration? | ⁠ [Yes / No] ⁠ | *Response:* <br>Attach Executive Summary of most recent test. |
+| *C.2* | What is your contractual Service Level Agreement (SLA) for notifying us in the event of a confirmed or suspected security breach? | ⁠ [Text] ⁠ | *Response Details:* (Must be ≤ 24 hours) |
+
+---
+
+
 
 
 
